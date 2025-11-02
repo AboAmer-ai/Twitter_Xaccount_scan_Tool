@@ -1,4 +1,4 @@
-# Twitter_XAccount_Scan_Tool
+# Trending hashtags Twitter - الهاشتاجات المتصدره تويتر
 
 A simple Streamlit app template for you to modify!
 
