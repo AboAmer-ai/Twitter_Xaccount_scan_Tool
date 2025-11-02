@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# Twitter_XAccount_Scan_Tool
 
 A simple Streamlit app template for you to modify!
 
